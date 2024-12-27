@@ -4,6 +4,8 @@
 
 ## Sobre mim
 
+![Fontes's GitHub stats](https://github-readme-stats.vercel.app/api?username=FontesSSI&show_icons=true&theme=transparent)
+
 Sou um **Programador Full Stack** com experiência em **PHP**, **Delphi** e **MySQL**. Atualmente, atuo como **Gerente de T.I.** na **EspeciesDev**, onde lidero projetos de tecnologia, automação de processos e gestão de sistemas.
 
 Além disso, também possuo conhecimentos em **QA (Quality Assurance)** e metodologias de automação de testes, como **BDD** e ferramentas como **Robot Framework** e **Sikuli Library**.
